@@ -1,2 +1,71 @@
-*.csv
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+*.tar.gz
+*.whl
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# MacOS-specific
+.DS_Store
+
+# System files
+Thumbs.db
+
+# Virtual environment
+env/
+venv/
+ENV/
+venv.bak/
+.venv/
+
+# Local configuration and sensitive files
+*.env
+.env.*
+config/
+*.cfg
+
+# iCalendar files generated
 *.ics
+
+# Python distribution / packaging
+.Python
+*.pyd
+
+# Compiled Static files
+staticfiles/

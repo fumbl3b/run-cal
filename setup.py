@@ -18,7 +18,7 @@ setup(
     description="Generate monthly workout calendars and export them to Google Calendar.",
     author="Harry Winkler",
     author_email="harry@fumblebee.site",
-    url="https://github.com/fumbl3b/workout_calendar",  # Replace with your actual repo URL
+    url="https://github.com/fumbl3b/run-cal",  # Replace with your actual repo URL
     license="MIT",
     classifiers=[
         'Programming Language :: Python :: 3',
